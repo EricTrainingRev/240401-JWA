@@ -32,11 +32,11 @@
 
 ## Testing Requirements
 - All Test Reporting should be done in Jira
-- All Use Cases require a minimum of one positive test
-- All Use Cases require a minimum of one negative test
-- All Use Cases with Business Requirements that limit data **input** require Boundary Analysis Testing
-- All Use Cases with Business Requirements that limit data **visibility** require Exploratory Testing to verify Business Requirements are met
-- All Use Cases with Business Requirements that limit data **interaction** require Exploratory Testing to verify Business Requirements are met
+- All Software and Business requirements require a minimum of one positive test
+- All Software and Business requirements require a minimum of one negative test
+- All Software and Business requirements with Requirements that limit data **input** require Boundary Analysis Testing
+- All Software and Business requirements with Requirements that limit data **visibility** require Exploratory Testing to verify Business Requirements are met
+- All Software and Business requirements with Requirements that limit data **interaction** require Exploratory Testing to verify Business Requirements are met
 - All tests that fail should be logged in a Defect Report inside of Jira
 - Acceptance testing for the user experience should answer the following questions in detail:
     - Is the intended use of the service intuitive?
