@@ -17,7 +17,7 @@
 - Planets should be “owned” by the user that added it to the Planetarium
 - Moons should be “owned” by the Planet the User adding the moon associated it with
 
-## Use Cases
+## Business Requirements
 - Users should be able to open a new User account with the Planetarium
 - Users should be able to securely log in to their account
 - Users should be able to add new Planets to the Planetarium
