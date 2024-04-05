@@ -154,3 +154,11 @@ buildNumber.properties
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,intellij+all,java,maven
+
+Parting Content/junit example/.gitignore
+Parting Content/junit example/.idea/.gitignore
+Parting Content/junit example/.idea/encodings.xml
+Parting Content/junit example/.idea/jpa-buddy.xml
+Parting Content/junit example/.idea/misc.xml
+Parting Content/junit example/.idea/uiDesigner.xml
+Parting Content/junit example/.idea/vcs.xml
