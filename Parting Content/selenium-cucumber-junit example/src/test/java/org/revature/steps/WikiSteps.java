@@ -8,6 +8,15 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.revature.TestRunner;
 
 public class WikiSteps {
+
+    /*
+     * These steps are defined in the WikiSteps.feature file in the resources folder
+     * 
+     * the @Given, @When, @Then annotations are used to orgainze the test steps
+     * 
+     * test data is accessed from the TestRunner class
+     */
+
     @Given("The User is on the Wikipedia homepage")
     public void the_user_is_on_the_wikipedia_homepage() {
         TestRunner.wikiHome.getHomepage();

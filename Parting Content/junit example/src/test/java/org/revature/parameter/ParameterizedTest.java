@@ -22,6 +22,11 @@ public class ParameterizedTest {
                 }
         );
     }
+    /*
+        | number | isEven |
+        |   10   |  true  |
+        |    9   |  false |
+     */
 
     @Parameter // defaults to first value in collection
     public int number;
